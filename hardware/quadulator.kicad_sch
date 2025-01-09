@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "2f7519b7-a464-4b9f-91e0-21a5d70e6b42")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 120.65 101.6)
+		(size 49.53 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5c46c0df-3d98-4b59-8321-b7e687d5efb0")
+		(property "Sheetname" "main_board"
+			(at 120.65 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main_board.kicad_sch"
+			(at 120.65 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2024.11.21_quadulator_2.0"
+				(path "/2f7519b7-a464-4b9f-91e0-21a5d70e6b42"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 120.396 68.58)
+		(size 49.53 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e0bdb2ae-5594-47fe-9dc7-cf3946dbc9d0")
+		(property "Sheetname" "control_board"
+			(at 120.396 67.8684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "control_board.kicad_sch"
+			(at 120.396 94.5646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2024.11.21_quadulator_2.0"
+				(path "/2f7519b7-a464-4b9f-91e0-21a5d70e6b42"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
