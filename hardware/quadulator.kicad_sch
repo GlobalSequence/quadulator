@@ -36,7 +36,7 @@
 			)
 		)
 		(instances
-			(project "2024.11.21_quadulator_2.0"
+			(project "quadulator"
 				(path "/2f7519b7-a464-4b9f-91e0-21a5d70e6b42"
 					(page "3")
 				)
@@ -74,7 +74,7 @@
 			)
 		)
 		(instances
-			(project "2024.11.21_quadulator_2.0"
+			(project "quadulator"
 				(path "/2f7519b7-a464-4b9f-91e0-21a5d70e6b42"
 					(page "2")
 				)
